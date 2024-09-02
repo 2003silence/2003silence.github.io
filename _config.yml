@@ -22,12 +22,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  
   name             : "郑礼鑫"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
+  
   location         : "China"
+  
   employer         : "Fu Zhou University"
   uri              : # URL
+  
   email            : "1754095418@qq.com" 
 
   # Academic websites
